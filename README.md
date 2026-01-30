@@ -1,19 +1,7 @@
-# Basics_of-_Predictive-_Analytics_Final_Project #
+# Basics_of-_Predictive-_Analytics_Mini_Project #
 
-House Rent Prediction Dataset
+Heart Failure Prediction — Project Summary
 
+The Heart Failure Prediction dataset from Kaggle provides clinical and demographic data to help build a predictive model for heart disease. The objective of this project is to understand the factors contributing to heart disease and develop machine learning models that can accurately predict whether an individual is likely to have heart disease based on health indicators.
 
-
-The goal of this project is to build and evaluate multiple regression models for predicting house rent prices using the House Rent Prediction Dataset from Kaggle. The dataset includes various features such as property size, location, furnishing status, number of bathrooms, tenant preferences, and more.
-
-We perform Exploratory Data Analysis (EDA) with meaningful visualizations, preprocess the data appropriately, and build four regression models:
-
-Linear Regression
-
-Ridge Regression
-
-Lasso Regression
-
-ElasticNet Regression
-
-Evaluation is based on regression metrics such as mean squared error, root mean squared error, and R² score.
+Heart disease is one of the leading causes of death globally. Early prediction using clinical data can help medical professionals take preventive or corrective action, improving patient outcomes and reducing the burden on healthcare systems.
