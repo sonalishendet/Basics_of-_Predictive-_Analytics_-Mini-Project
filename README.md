@@ -1,4 +1,4 @@
-# Basics_of-_Predictive-_Analytics_Mini_Project #
+# Basics_of-_Predictive-_Analytics_Final_Project #
 
 House Rent Prediction Dataset
 
